@@ -2,7 +2,8 @@
 
 int main()
 {
-	std::cout << "Hello\n";
+	std::cout << "Helloo\n";
+	//changed the code
 
 	return 0;
 }
